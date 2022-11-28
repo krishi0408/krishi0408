@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @krishi0408
-- 🌱 I’m currently learning and exploring open source as well I am currently working as a community engineer at Harness focusing on CI. 
-- 💞️ I’m looking to collaborate on projects related to CI/CD and Drone 
+- 🌱 I’m currently learning and exploring open source as well I am currently working as a community engineer at Harness focusing on Harness CI and Harness Feature Flags as well as community @harness.
 - 📫 How to reach me <krishikasingh389@gmail.com>
 
 
