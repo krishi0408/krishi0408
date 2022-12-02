@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @krishi0408
 - 🌱 I’m currently learning and exploring open source as well I am currently working as a community engineer at Harness focusing on Harness CI and Harness Feature Flags as well as community @harness.
 - 📫 How to reach me <krishikasingh389@gmail.com>
-
-
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/krishika-singh-60088a207/)
 ## Language
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
