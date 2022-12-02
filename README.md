@@ -34,5 +34,3 @@
 
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=krishi0408&theme=onedark)](https://github.com/krishi0408/github-readme-stats)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/krishi0408/github-readme-quotes)
