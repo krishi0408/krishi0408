@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krishi0408
-- 🌱 I’m currently learning and exploring open source as well I am currently working as a devops intern in build and relase time at Harness focusing on Harness CI and Harness Feature Flags as well as community @harness.
+- 🌱 I’m currently learning and exploring open source as well I am currently working as a devops intern in build and relase team at Harness focusing on Harness CI and Harness Feature Flags as well as community @harness.
 - 📫 How to reach me <krishikasingh389@gmail.com>
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/krishika-singh-60088a207/)
 ## Language
