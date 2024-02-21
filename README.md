@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @krishi0408
-- 🌱 I’m currently learning and exploring open source as well I am currently working as a devops intern in build and relase team at Harness focusing on improving developer productivity.
+- 👋 Hi, I’m Krishika.
+- 🌱 DevRel @Harness
 - 📫 How to reach me <krishikasingh389@gmail.com>
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/krishika-singh-60088a207/)
 ## Language
@@ -25,4 +25,4 @@
 </p>
 
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=krishi0408&theme=onedark)](https://github.com/krishi0408/github-readme-stats)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=krishi0408&countColor=%23263759)
