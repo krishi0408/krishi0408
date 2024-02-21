@@ -26,3 +26,5 @@
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=krishi0408&countColor=%23263759)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=krishi0408&theme=oldie)
