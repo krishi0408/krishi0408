@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Krishika.<br>- 🌱 Devops and DevRel enthusiast<br>- 📫 How to reach me <krishikasingh389@gmail.com>
+- 👋 Hi, I’m Krishika.<br>- 🌱 Engineering @Aurasell.ai <br>- 📫 How to reach me <krishikasingh389@gmail.com>
 
 
 ## 🌐 Socials:
