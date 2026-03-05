@@ -80,7 +80,6 @@ https://www.harness.io/authors/krishika-singh
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishi0408&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishi0408&theme=github-dark&hide_border=true" height="150"/>
 </p>
 
