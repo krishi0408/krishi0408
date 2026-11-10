@@ -11,7 +11,7 @@
 
 ## About
 
-Founding Software Engineer at **Aurasell AI**, building the integrations platform from the ground up.
+Founding Senior Software Engineer at **Aurasell AI**, building the integrations platform from the ground up.
 
 Former Developer Relations at **Harness**, focused on CI/CD enablement and DevOps best practices.
 
