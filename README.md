@@ -1,6 +1,6 @@
 <!-- Premium Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Krishika%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founding%20Software%20Engineer%20@%20Aurasell%20AI%20|%20Integrations%20Platform&descAlignY=63&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Krishika%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founding%20Senior%20Software%20Engineer%20@%20Aurasell%20AI%20|%20Integrations%20Platform&descAlignY=63&descSize=20" />
 </p>
 
 <p align="center">
